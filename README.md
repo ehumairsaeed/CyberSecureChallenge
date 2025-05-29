@@ -30,7 +30,7 @@ All submissions are original infographics designed in A4 size (PDF format), with
 
 ## 👤 Creator
 
-Created by **Umair Saeed**, an aspiring cybersecurity professional with a strong passion for ethical hacking, digital safety, and cyber hygiene awareness. This project was developed as part of the **CyberSecure Challenge** organized by **Saint Louis University**, aiming to promote secure online behavior and educate users on real-world cyber threats. Through creative infographics and user-friendly content, [Your Name] strives to make cybersecurity knowledge accessible, practical, and impactful.
+Created by **Umair Saeed**, an aspiring cybersecurity professional with a strong passion for ethical hacking, digital safety, and cyber hygiene awareness. This project was developed as part of the **CyberSecure Challenge** organized by **Saint Louis University**, aiming to promote secure online behavior and educate users on real-world cyber threats. Through creative infographics and user-friendly content, Umair Saeed strives to make cybersecurity knowledge accessible, practical, and impactful.
 
 ## 📬 Contact
 
